@@ -226,6 +226,8 @@ La aplicación está desplegada y disponible online:
 
 **Pablo Guerrero Linares**
 
-Desarrollador Web Junior
+Desarrollador Web Junior en formación, interesado especialmente en desarrollo backend y bases de datos.
+
+Este proyecto forma parte de mi portfolio y ha sido desarrollado como proyecto final del Curso Superior en Programación de Páginas Web.
 
 [GitHub](https://github.com/PabloEstopero)
