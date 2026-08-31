@@ -193,6 +193,28 @@ Contraseña: DemoUser123!
 ---
 
 ## 🌐 Demo online
+## 📸 Capturas de pantalla
+
+### 🏠 Página principal
+
+![Página principal](screenshots/inicio.png)
+
+### 🔐 Inicio de sesión
+
+![Inicio de sesión](screenshots/login.png)
+
+### 📰 Noticias
+
+![Noticias](screenshots/noticias.png)
+
+### 📅 Gestión de citas
+
+![Gestión de citas](screenshots/citas.png)
+
+### 👨‍💼 Panel de administración
+
+![Panel de administración](screenshots/administracion.png)
+
 
 La aplicación está desplegada y disponible online:
 
