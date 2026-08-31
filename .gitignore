@@ -1,0 +1,9 @@
+# Configuración privada
+web/config/.env.php
+
+# Archivos temporales
+*.log
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
